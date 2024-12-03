@@ -20,7 +20,6 @@ Uma API desenvolvida com **Spring Boot** para gerenciar livros, autores, categor
 - **SQL Server** (Azure)
 - **Hibernate**
 - **Render** (Deploy)
-- **Azure** (Armazenamento)
 - **Maven** (Gerenciamento de dependências)
 
 ---
