@@ -29,6 +29,20 @@ public class Livro {
 		this.autor = dados.autor();
 		this.tema = dados.tema();
 	}
+	
+	public void atualizarInformacoes(DadosAtualizacaoLivro dados) {
+        if (dados.nome() != null) {
+            this.nome = dados.nome();
+        }
+        
+        if (dados.tema() != null) {
+            this.tema = dados.tema();
+        }
+        
+        if (dados.autor() != null) {
+            this.autor = dados.autor();
+        }
+	}
 
 	public Long getId() {
 		return id;
