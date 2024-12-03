@@ -36,6 +36,9 @@ Uma API desenvolvida com **Spring Boot** para gerenciar livros, autores, categor
 ---
 
 ##📂 Estrutura do Projeto
+
+```plaintext
+
 src/
 ├── main/
 │   ├── java/
@@ -45,20 +48,7 @@ src/
 │   ├── resources/
 │   │   ├── application.properties  # Configuração da aplicação
 
-## 📂 Estrutura do Projeto
-
-```plaintext
-src/
-├── main/
-│   ├── java/
-│   │   ├── com.example.livraria/
-│   │   │   ├── controller/    # Controladores REST
-│   │   │   ├── service/       # Lógica de negócios
-│   │   │   ├── repository/    # Acesso ao banco de dados
-│   │   │   └── model/         # Modelos das entidades
-│   ├── resources/
-│   │   ├── application.properties  # Configuração da aplicação
-
+```
 
 ---
 
