@@ -33,6 +33,8 @@ Uma API desenvolvida com **Spring Boot** para gerenciar livros, autores, categor
 - SQL Server no Azure
 - Conta no Render
 
+---
+
 ##📂 Estrutura do Projeto
 src/
 ├── main/
@@ -43,16 +45,17 @@ src/
 │   ├── resources/
 │   │   ├── application.properties  # Configuração da aplicação
 
+---
+
 ## 🌐 Documentação
 
 Acesse a documentação interativa no Swagger para visualizar e testar os endpoints:  
 
 Swagger UI - Livraria API: https://apilivraria.onrender.com/swagger-ui/index.html
 
+---
+
 ## 📓 Notebook de Exemplos
 
 O arquivo Jupyter Notebook contendo exemplos de uso da API está disponível neste repositório. Você pode acessá-lo diretamente [aqui](./Api_livraria.ipynb).
-
-Ou visualize online no [nbviewer](https://nbviewer.org):  
-🔗 **[Visualizar Notebook](https://nbviewer.org//github.com/lucasraulinosilva/ApiLivraria/blob/main/Api_livraria.ipynb)**
 
