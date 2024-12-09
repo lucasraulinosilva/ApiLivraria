@@ -53,8 +53,9 @@ src/
 
 Acesse a documentação interativa no Swagger para visualizar e testar os endpoints:  
 
-Swagger UI - Livraria API: https://apilivraria.onrender.com/swagger-ui/index.html \n
-Site de exemplo: https://lucasraulinosilva.github.io/livrariaJorge/index.html
+Swagger UI - Livraria API: https://apilivraria.onrender.com/swagger-ui/index.html
+
+Site com exemplo de uma livraria: https://lucasraulinosilva.github.io/livrariaJorge/index.html
 
 ---
 
