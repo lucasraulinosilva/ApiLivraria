@@ -54,11 +54,11 @@ src/
 Acesse a documentação interativa no Swagger para visualizar e testar os endpoints:  
 
 Swagger UI - Livraria API: https://apilivraria.onrender.com/swagger-ui/index.html
+Site de exemplo: https://lucasraulinosilva.github.io/livrariaJorge/index.html
 
 ---
 
 ## 📓 Notebook de Exemplos
 
 O arquivo Jupyter Notebook contendo exemplos de uso da API está disponível neste repositório. Você pode acessá-lo diretamente [aqui](./Api_livraria.ipynb).
-Site para testar as requisições [aqui](https://lucasraulinosilva.github.io/livrariaJorge/index.html)
 
