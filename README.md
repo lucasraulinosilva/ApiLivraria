@@ -55,7 +55,7 @@ Acesse a documentação interativa no Swagger para visualizar e testar os endpoi
 
 Swagger UI - Livraria API: https://apilivraria.onrender.com/swagger-ui/index.html
 
-Site com exemplo de uma livraria: https://lucasraulinosilva.github.io/livrariaJorge/index.html
+Site com exemplo de uma livraria: [https://github.com/lucasraulinosilva/LivrariaCapaAmarela/index.html](https://lucasraulinosilva.github.io/LivrariaCapaAmarela/)
 
 ---
 
